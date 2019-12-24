@@ -1,0 +1,1 @@
+Released on March 20, 2009, Battle.net is a service ran by Blizzard Entertainment that enables users to play online with other gamers. Games that utilize this service include World of Warcraft, StarCraft II, Diablo III, Overwatch, Destiny 2, and Call of Duty: Black Ops 4. Battle.net utilizes network ports 4000 and 6112 through 6119.
